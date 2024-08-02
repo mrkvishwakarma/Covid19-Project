@@ -63,4 +63,18 @@ This project follows a logical progression of real-world project implementation 
 - Data Architects looking to gain an understanding of the Azure Data Engineering stack.
 - Data Scientists who want to extend their knowledge into data engineering.
 
-###Project SnapShots
+
+## Visuals
+
+### Project Solution Architecture
+![Project Solution Architecture](./images/solution.png)
+
+### Data Ingestion Pipeline
+![Data Ingestion Pipeline](./images/Ingestion_Pipeline.png)
+
+### Cases and Deaths DataFlow Pipeline
+![Cases and Deaths DataFlow Pipeline](./images/Cases_Deaths_DataFlow.png)
+
+### Hospital Admissions DataFlow Pipeline
+![Hospital Admissions DataFlow Pipeline](./images/Hospital_Admissions_DataFlow.png)
+
